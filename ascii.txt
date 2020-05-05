@@ -1,0 +1,7 @@
+Naam in Hexadecimale getallen: 069 108 109 097 115 115
+Naam in Decimale getallen: 01000101 01101100 01101101 01100001 01110011 01110011
+
+– Voornaam					--> VARCHAR
+– Tussenvoegsel					--> VARCHAR
+– Huisnummer					--> VARCHAR
+– Opmerkingen veld voor bij een bestelling	--> VARCHAR
